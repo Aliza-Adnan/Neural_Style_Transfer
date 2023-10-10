@@ -14,4 +14,5 @@ In this repo, An image is going to be generated using the style fo one omage and
 ## Following is the style loss
 ![image](https://github.com/Aliza-Adnan/Neural_Style_Transfer/assets/113924925/fdb5df93-b41b-4d4c-a149-4f23374d064f)
 
-
+## Credits :
+https://www.youtube.com/watch?v=imX4kSKDY7s&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=22
